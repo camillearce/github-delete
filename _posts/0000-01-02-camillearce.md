@@ -1,6 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Paid Search Building Blocks"
+Module 2
 ---
-# OH GITHUB 
 Use the left arrow to go back!
+---
+layout: slide
+Title: "Keywords"
