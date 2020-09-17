@@ -113,4 +113,3 @@ exclude: [
   "reveal.js/CONTRIBUTING.md",
   "reveal.js/LICENSE",
   "reveal.js/package.json"
-]
